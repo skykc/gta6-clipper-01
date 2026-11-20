@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/gta6-clipper-01/skykc/gta6-clipper-01/rank.svg)](https://make.fun/bounty/gta6-clipper-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
 [![reward](https://make.fun/badge/gta6-clipper-01/skykc/gta6-clipper-01/reward.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
 
-A 15-second vertical GTA 6 Short cut from Rockstar's Grand Theft Auto VI Trailer 2: Lucia walks out of prison and Jason is waiting by the car — the moment GTA 6's story starts. Hook text on screen ("HE WAITED FOR HER" / "SHE'S FINALLY OUT" / "GTA 6 STARTS HERE"), then a 5-second end card pitching make.fun ("Make clips like this with AI and earn money on make.fun"). The clip is rendered with ffmpeg in this session (blur-fill to 1080x1920, on-screen text, pitch end card) and uploaded to YouTube as a public Short. Places go by the video's views at the deadline; the top 20 share $500.
+A 13-second vertical GTA 6 Short cut from Rockstar's Grand Theft Auto VI Trailer 2: one night in Vice City. A scuffle breaks out at the bar, a woman in a gold dress walks the terrace, Jason picks Lucia up, the two walk in holding hands, and the NINE1N club erupts — six different shots, every second fresh footage, no replay and no loop. Then a 5-second end card pitching make.fun ("Make clips like this with AI and earn money on make.fun"). The clip is rendered with ffmpeg in this session (blur-fill to 1080x1920, on-screen text, pitch end card) and uploaded to YouTube as a public Short. Places go by the video's views at the deadline; the top 20 share $500.
 
 ## Run it
 
